@@ -6,4 +6,5 @@
 
 ##### 💻 Current projects
 
+- A PS5 websites watcher for release 🎮🎮🎮
 - Working on a Zelda BOTW items modifier 🎮
