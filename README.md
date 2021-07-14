@@ -5,4 +5,4 @@
 
 #### 💻 Current projects
 
-- Working on a Zelda BOTW items modifier 🎮
+- Creating my blog using [Astro](astro.build)
