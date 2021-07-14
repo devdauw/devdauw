@@ -5,4 +5,4 @@
 
 #### 💻 Current projects
 
-- Creating my blog using [Astro](astro.build)
+- Creating my blog using [Astro](https://astro.build)
