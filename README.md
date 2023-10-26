@@ -5,4 +5,7 @@
 
 #### 💻 Current projects
 
-- N/A
+- Recreating a website from scratch, available @ dauw.cc
+  - It's using WebComponents
+  - Served by a barebone NodeJS backend
+  - Surely full of bugs! 🐛 
